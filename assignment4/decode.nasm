@@ -1,6 +1,9 @@
 ;decode.nasm
-;Sanjiv Kawa (@skawasec)
 ;this decodes shellcode encoded by encode.rb
+;Linux x86
+;Sanjiv Kawa (@skawasec)
+;www.popped.io
+;Decemeber 2, 2016
 
 global _start
 

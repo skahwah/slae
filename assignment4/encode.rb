@@ -2,6 +2,9 @@
 =begin
 encode.rb
 Sanjiv Kawa (@skawasec)
+www.popped.io
+December 2, 2016
+
 This encoder takes an arbitrary length shellcode and adds 5 to the first 10 elements
 The remaining elements are subtracted by 7
 An XOR with 0xd3 is then done on all of the elements in the array
